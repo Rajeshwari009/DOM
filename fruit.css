@@ -1,0 +1,12 @@
+/* use "." for class  */
+/* use "#" for id */
+/* use label[for= "name"]  for label*/
+/* use tag name like form for the tag element  */
+
+
+.fruit{
+    font-style:italic;
+    font-weight: 1000;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
